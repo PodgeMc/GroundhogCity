@@ -1,0 +1,1 @@
+// Stores knowledge that persists through loops
